@@ -1,4 +1,4 @@
-<img src="https://github.com/PineconePi/PineconePi_Pilot/raw/master/Images/Picture.jpg" width="1000" height="706" alt="Wait..."/>
+<img src="https://github.com/PineconePi/PineconePi_Pilot/raw/master/Images/Picture.jpg" width="500" height="353" alt="Wait..."/>
 
 # PineconePi Pilot
 
