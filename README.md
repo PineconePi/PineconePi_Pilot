@@ -14,6 +14,8 @@ PineconePi Pilot(简称PPP）是由松果派开源硬件联合无人机爱好者
 ## 目录结构
 1. Image: LOGO和图片
 2. Video：飞行视频
+3. Library: 相关库函数
+4. Project：固定翼/多旋翼飞控程序
 
 
 ## 有问题反馈
