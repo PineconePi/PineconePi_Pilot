@@ -1,0 +1,32 @@
+
+T4C30 000:838 SEGGER J-Link V4.90 Log File (0009ms, 0294ms total)
+T4C30 000:838 DLL Compiled: Jul 28 2014 10:35:20 (0009ms, 0294ms total)
+T4C30 000:838 Logging started @ 2019-07-19 15:10 (0010ms, 0295ms total)
+T4C30 000:848 JLINK_SetWarnOutHandler(...) (0000ms, 0295ms total)
+T4C30 000:848 JLINK_OpenEx(...)
+Firmware: J-Link ARM V8 compiled Nov 28 2014 13:44:46
+Hardware: V8.00
+S/N: 286370559
+Feature(s): RDI,FlashDL,FlashBP,JFlash  returns O.K. (0282ms, 0577ms total)
+T4C30 001:130 JLINK_SetErrorOutHandler(...) (0000ms, 0577ms total)
+T4C30 001:130 JLINK_ExecCommand("ProjectFile = "C:\Users\hasee\Desktop\Library\UART\SimplUART\JLinkSettings.ini"", ...)Device "CORTEX-M4" selected (0 KB flash, 0 KB RAM).  returns 0x00 (0005ms, 0582ms total)
+T4C30 001:135 JLINK_ExecCommand("Device = SWM320xE", ...)Device "CORTEX-M4" selected (0 KB flash, 0 KB RAM).  returns 0x00 (0000ms, 0582ms total)
+T4C30 001:135 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x01 (0000ms, 0582ms total)
+T4C30 001:135 JLINK_GetHardwareVersion()  returns 0x13880 (0001ms, 0583ms total)
+T4C30 001:136 JLINK_GetDLLVersion()  returns 49000 (0000ms, 0583ms total)
+T4C30 001:136 JLINK_GetFirmwareString(...) (0000ms, 0583ms total)
+T4C30 001:136 JLINK_GetDLLVersion()  returns 49000 (0000ms, 0583ms total)
+T4C30 001:136 JLINK_GetCompileDateTime() (0000ms, 0583ms total)
+T4C30 001:136 JLINK_GetFirmwareString(...) (0000ms, 0583ms total)
+T4C30 001:136 JLINK_GetHardwareVersion()  returns 0x13880 (0001ms, 0584ms total)
+T4C30 001:137 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0002ms, 0586ms total)
+T4C30 001:139 JLINK_SetSpeed(2000) (0001ms, 0587ms total)
+T4C30 001:141 JLINK_SetResetType(JLINKARM_RESET_TYPE_NORMAL)  returns JLINKARM_RESET_TYPE_NORMAL (0000ms, 0587ms total)
+T4C30 001:141 JLINK_Reset()JLINK_GetId()  returns 0x00000000 (0001ms, 0590ms total)
+T4C30 001:144 JLINK_GetId()  returns 0x00000000 (0002ms, 0592ms total)
+T4C30 001:170 JLINK_GetFirmwareString(...) (0000ms, 0592ms total)
+T6008 031:337 
+  ***** Error: Connection to emulator lost! (156160ms, 156752ms total)
+T4C30 210:573 JLINK_Close() (0000ms, 0592ms total)
+T4C30 210:573  (0000ms, 0592ms total)
+T4C30 210:573 Closed (0000ms, 0592ms total)
